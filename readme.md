@@ -1,11 +1,9 @@
 GRADUATE CERTIFICATE
 INTELLIGENT REASONING SYSTEMS
 
-Workshop Project Guide
-
 Subject: Machine Reasoning
 
-01-S-MR-InClassWorkshop-S-A A0032571N_LyDuyKhang(Ken)
+IRS-MR-2020-01-18-IS02PT-A0032571N_LyDuyKhang(Ken)_InClassWorkshop
 
 Name: LY DUY KHANG (KEN)\
 LumiNUS Account: e0507946@u.nus.edu\
